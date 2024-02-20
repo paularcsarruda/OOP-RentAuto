@@ -28,7 +28,6 @@ namespace OOP___Rent
                         Carro carro = new Carro();
                         double valorTotalCarro = carro.CalcularValorTotal(numDiarias);
                         Console.WriteLine($"Valor total à pagar para 10 diárias de carro: R$ {valorTotalCarro:F2}");
-                        Console.ReadLine();
                         break;
                     case '2':
                         Moto moto = new Moto();
