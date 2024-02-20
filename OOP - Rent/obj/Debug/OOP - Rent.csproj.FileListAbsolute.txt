@@ -1,0 +1,6 @@
+/Users/paulaarruda/RiderProjects/OOP - Rent/OOP - Rent/bin/Debug/OOP___Rent.exe
+/Users/paulaarruda/RiderProjects/OOP - Rent/OOP - Rent/bin/Debug/OOP___Rent.pdb
+/Users/paulaarruda/RiderProjects/OOP - Rent/OOP - Rent/obj/Debug/OOP - Rent.csproj.AssemblyReference.cache
+/Users/paulaarruda/RiderProjects/OOP - Rent/OOP - Rent/obj/Debug/OOP - Rent.csproj.CoreCompileInputs.cache
+/Users/paulaarruda/RiderProjects/OOP - Rent/OOP - Rent/obj/Debug/OOP___Rent.exe
+/Users/paulaarruda/RiderProjects/OOP - Rent/OOP - Rent/obj/Debug/OOP___Rent.pdb
